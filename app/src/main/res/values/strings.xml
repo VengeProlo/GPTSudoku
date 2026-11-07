@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sudoku Assist</string>
+    <string name="accessibility_description">Sends number-entry taps only after you explicitly start auto-fill. It does not read screen text or inspect the game interface.</string>
+</resources>
